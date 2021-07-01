@@ -1,13 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Resume Website</title>
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <link href="index.css" rel="stylesheet" />
+  <style>
+    #codebox {
+      width: 500px;
+      height: 350px;
+      background: #181826;
+      border-radius: 25px;
+    }
+    #Big{
+      text-size-adjust: 90px;
+    }
+
+    .bg {
+      background-image: url(./img/BG.svg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-color: #0B005F;
+    }
+
+    .textpadding {
+      padding-top: 50px;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      padding-left: 50px;
+    }
+
+    u {
+      text-decoration: blue;
+      color: blue;
+    }
+  </style>
 </head>
-<body>
-  test commit
+
+<body class="bg">
+  <!-- navbar container -->
+  <div class="py-4 mb-4">
+    <!-- navbar -->
+    <div class="flex justify-between max-w-screen-xl mx-auto">
+      <!-- navbar left -->
+      <div class="px-10 py-2">
+        <button class="bg-purple-700 hover:bg-purple-500 text-white text-lg font-bold py-3 px-10 rounded-full shadow-2xl">
+          PURICH‏‏‎‏‏‏
+        </button>
+      </div>
+
+      <!-- navbar right -->
+      <div class="text-lg flex space-x-10 py-5 text-white px-10">
+        <p>Home</p>
+        <p>Experience</p>
+        <p>Contact</p>
+      </div>
+
+    </div>
+  </div>
+  <div class="flex justify-between max-w-screen-xl mx-auto">
+    <div class="px-10 py-10 self-center">
+      <img src="./img/me.JPG" alt="me" class="rounded-3xl" width= "301px" height= "318px">
+    </div>
+    <div class="px-10 py-10 self-center">
+      
+      <p id="codebox" class="text-white text-base textpadding" style="box-shadow: black 5px 5px 200px;">
+        <b class="text-4xl">Hello! I'm Pooh<br> </b><br>
+        <u>&lt;/</u>My name is Purich Seenuallae. <u>/&gt;</u> <br>
+        <u>&lt;/</u> I am a student at Chiangmai University. <u>/&gt;</u> <br>
+        <u>&lt;/</u> I am interested in graphic design. <u>/&gt;</u> <br>
+        <u>&lt;/</u> My hobby is programming. <u>/&gt;</u> <br>
+        <u>&lt;/</u> I am good at Mathematic. <u>/&gt;</u> <br>
+        <u>&lt;/</u> I can programming in C++. <u>/&gt;</u> <br>
+        <t><u>&lt;/</u> END. <u>/&gt;</u><br>
+    </div>
+  </div>
+  <div class="flex justify-center py-20">
+    <svg class="animate-bounce w-6 h-6 text-amber-900" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="#FFFFFF">
+      <path d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+    </svg>
+  </div>
+
+  </p>
 </body>
+
 </html>

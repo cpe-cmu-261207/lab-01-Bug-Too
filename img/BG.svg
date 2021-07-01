@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.164" cy="0.499" fx="0.179359570145607" fy="0.28441113233566284" r="1.064" gradientTransform="translate(0.219) scale(0.563 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.045" stop-color="#8000bc"/>
+      <stop offset="0.101" stop-color="#7100b0"/>
+      <stop offset="0.303" stop-color="#400089"/>
+      <stop offset="0.481" stop-color="#1d006d"/>
+      <stop offset="0.627" stop-color="#07005c"/>
+      <stop offset="0.721" stop-color="#000056"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.487" y1="-0.048" x2="0.5" y2="1.592" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8000bc"/>
+      <stop offset="0.001" stop-color="#8000bc"/>
+      <stop offset="0.046" stop-color="#7100b0"/>
+      <stop offset="0.132" stop-color="#400089"/>
+      <stop offset="0.263" stop-color="#1d006d"/>
+      <stop offset="0.385" stop-color="#07005c"/>
+      <stop offset="0.414" stop-color="#000056"/>
+      <stop offset="1" stop-color="#000056"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" clip-path="url(#clip-Web_1920_3)">
+    <rect width="1920" height="1080" fill="#0b005f"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="638" height="1407" transform="translate(1542 -134)" fill="#000056"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-14.5)">
+      <g id="Layer_1" data-name="Layer 1">
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="1920" height="1080" transform="translate(-358)" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2">
+        <path id="Path_15" data-name="Path 15" d="M13,843.638s182.287-283.861,491.894,0c0,0,257.606,211.862,459.606,54.862,0,0,212.043-127.139,410.521,57.93,0,0,135.479,120.07,306.479,61.07,0,0,222-115,357,69s-220,315-220,315l-1499-41-489-80Z" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Layer_3" data-name="Layer 3">
+        <g id="Rectangle_3" data-name="Rectangle 3" opacity="0.41">
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="43" height="43" rx="10" transform="translate(150.198 693.118) rotate(-18.888)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <rect id="Rectangle_21" data-name="Rectangle 21" width="38" height="38" rx="7.5" transform="translate(153.372 694.674) rotate(-18.888)" fill="none" stroke="#ff0080" stroke-width="5"/>
+        </g>
+        <g id="Rectangle_4" data-name="Rectangle 4" opacity="0.41">
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="43" height="43" rx="10" transform="translate(1215 349)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <rect id="Rectangle_23" data-name="Rectangle 23" width="38" height="38" rx="7.5" transform="translate(1217.5 351.5)" fill="none" stroke="#fc0" stroke-width="5"/>
+        </g>
+        <g id="Rectangle_5" data-name="Rectangle 5" opacity="0.41">
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="43" height="43" rx="10" transform="translate(1608 985)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="38" height="38" rx="7.5" transform="translate(1610.5 987.5)" fill="none" stroke="#ff0080" stroke-width="5"/>
+        </g>
+        <g id="Rectangle_6" data-name="Rectangle 6" opacity="0.41">
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="43" height="43" rx="10" transform="translate(689.351 209.149)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="38" height="38" rx="7.5" transform="translate(691.851 211.649)" fill="none" stroke="#60f" stroke-width="5"/>
+        </g>
+        <g id="Polygon_1" data-name="Polygon 1" opacity="0.41">
+          <path id="Path_16" data-name="Path 16" d="M812.7,924.914a10,10,0,0,1,17.3,0l11.64,20.069A10,10,0,0,1,832.991,960h-23.28a10,10,0,0,1-8.65-15.017Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_17" data-name="Path 17" d="M821.351,924.932a4.911,4.911,0,0,0-4.325,2.491l-11.639,20.068A5,5,0,0,0,809.712,955h23.279a5,5,0,0,0,4.325-7.509l-11.639-20.068a4.914,4.914,0,0,0-4.326-2.491m0-5A9.907,9.907,0,0,1,830,924.914l11.639,20.069A10,10,0,0,1,832.991,960H809.712a10,10,0,0,1-8.651-15.017l11.64-20.069A9.907,9.907,0,0,1,821.351,919.932Z" fill="#ff0080" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Polygon_2" data-name="Polygon 2" opacity="0.41">
+          <path id="Path_18" data-name="Path 18" d="M774.7,633.914a10,10,0,0,1,17.3,0l11.64,20.069A10,10,0,0,1,794.991,669h-23.28a10,10,0,0,1-8.65-15.017Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_19" data-name="Path 19" d="M783.351,633.932a4.911,4.911,0,0,0-4.325,2.491l-11.639,20.068A5,5,0,0,0,771.712,664h23.279a5,5,0,0,0,4.325-7.509l-11.639-20.068a4.914,4.914,0,0,0-4.326-2.491m0-5A9.907,9.907,0,0,1,792,633.914l11.639,20.069A10,10,0,0,1,794.991,669H771.712a10,10,0,0,1-8.651-15.017l11.64-20.069A9.907,9.907,0,0,1,783.351,628.932Z" fill="#fc0" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Rectangle_6-2" data-name="Rectangle 6" opacity="0.41">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="43" height="43" rx="10" transform="translate(48 154)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="38" height="38" rx="7.5" transform="translate(50.5 156.5)" fill="none" stroke="#60f" stroke-width="5"/>
+        </g>
+        <g id="Polygon_2-2" data-name="Polygon 2" opacity="0.41">
+          <path id="Path_20" data-name="Path 20" d="M146.7,449.914a10,10,0,0,1,17.3,0l11.64,20.069A10,10,0,0,1,166.991,485h-23.28a10,10,0,0,1-8.65-15.017Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_21" data-name="Path 21" d="M155.351,449.932a4.911,4.911,0,0,0-4.325,2.491l-11.639,20.068A5,5,0,0,0,143.712,480h23.279a5,5,0,0,0,4.325-7.509l-11.639-20.068a4.914,4.914,0,0,0-4.326-2.491m0-5A9.907,9.907,0,0,1,164,449.914l11.639,20.069A10,10,0,0,1,166.991,485H143.712a10,10,0,0,1-8.651-15.017l11.64-20.069A9.907,9.907,0,0,1,155.351,444.932Z" fill="#fc0" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Polygon_4" data-name="Polygon 4" opacity="0.41">
+          <path id="Path_22" data-name="Path 22" d="M1614.7,187.914a10,10,0,0,1,17.3,0l11.64,20.069a10,10,0,0,1-8.65,15.017h-23.28a10,10,0,0,1-8.65-15.017Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_23" data-name="Path 23" d="M1623.351,187.932a4.911,4.911,0,0,0-4.325,2.491l-11.639,20.068a5,5,0,0,0,4.325,7.509h23.279a5,5,0,0,0,4.325-7.509l-11.639-20.068a4.914,4.914,0,0,0-4.326-2.491m0-5a9.907,9.907,0,0,1,8.651,4.982l11.639,20.069a10,10,0,0,1-8.65,15.017h-23.279a10,10,0,0,1-8.651-15.017l11.64-20.069A9.907,9.907,0,0,1,1623.351,182.932Z" fill="#ff0080" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Polygon_3" data-name="Polygon 3" opacity="0.41">
+          <path id="Path_24" data-name="Path 24" d="M554.82,836.673a10,10,0,0,1,15.7,7.263l2.139,23.1a10,10,0,0,1-14.156,10l-21.129-9.774A10,10,0,0,1,535.83,850Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_25" data-name="Path 25" d="M562.663,840.321a4.912,4.912,0,0,0-4.971.445L538.7,854.093a5,5,0,0,0,.773,8.631L560.6,872.5a5,5,0,0,0,7.078-5l-2.138-23.1a4.912,4.912,0,0,0-2.88-4.077m2.1-4.538a9.9,9.9,0,0,1,5.759,8.154l2.139,23.1a10,10,0,0,1-14.156,10l-21.128-9.774A10,10,0,0,1,535.83,850l18.989-13.328A9.906,9.906,0,0,1,564.762,835.783Z" fill="#00d5ff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Polygon_5" data-name="Polygon 5" opacity="0.41">
+          <path id="Path_26" data-name="Path 26" d="M1348.7,718.914a10,10,0,0,1,17.3,0l11.64,20.069a10,10,0,0,1-8.65,15.017h-23.28a10,10,0,0,1-8.65-15.017Z" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <path id="Path_27" data-name="Path 27" d="M1357.351,718.932a4.911,4.911,0,0,0-4.325,2.491l-11.639,20.068a5,5,0,0,0,4.325,7.509h23.279a5,5,0,0,0,4.325-7.509l-11.639-20.068a4.914,4.914,0,0,0-4.326-2.491m0-5a9.907,9.907,0,0,1,8.651,4.982l11.639,20.069a10,10,0,0,1-8.65,15.017h-23.279a10,10,0,0,1-8.651-15.017l11.64-20.069A9.907,9.907,0,0,1,1357.351,713.932Z" fill="#60f" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" opacity="0.41">
+          <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(358.351 712.149)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="18.5" cy="19" rx="18.5" ry="19" transform="translate(360.851 714.649)" fill="none" stroke="#ff0080" stroke-width="5"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" opacity="0.41">
+          <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(1762.351 681.149)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="18.5" cy="19" rx="18.5" ry="19" transform="translate(1764.851 683.649)" fill="none" stroke="#ff0080" stroke-width="5"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" opacity="0.41">
+          <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(1784.351 198)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="18.5" cy="19" rx="18.5" ry="19" transform="translate(1786.851 200.5)" fill="none" stroke="#ff0080" stroke-width="5"/>
+        </g>
+        <g id="Ellipse_4" data-name="Ellipse 4" opacity="0.41">
+          <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(1067.351 818.149)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="18.5" cy="19" rx="18.5" ry="19" transform="translate(1069.851 820.649)" fill="none" stroke="#00d5ff" stroke-width="5"/>
+        </g>
+        <g id="Ellipse_6" data-name="Ellipse 6" opacity="0.41">
+          <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(1046.351 618.149)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+          <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="18.5" cy="19" rx="18.5" ry="19" transform="translate(1048.851 620.649)" fill="none" stroke="#60f" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
