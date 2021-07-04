@@ -10,7 +10,6 @@
   }
 
   .bg {
-    background-image: url(/img/background.svg);
     background-repeat: no-repeat;
     background-color: #0B005F;
   background-attachment: scroll;
