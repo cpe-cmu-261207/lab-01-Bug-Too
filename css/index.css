@@ -1,0 +1,29 @@
+#codebox {
+    width: 500px;
+    height: 350px;
+    background: #181826;
+    border-radius: 25px;
+  }
+
+  #Big {
+    text-size-adjust: 90px;
+  }
+
+  .bg {
+    background-image: url(./img/background.svg);
+    background-repeat: no-repeat;
+    background-color: #0B005F;
+  background-attachment: scroll;
+  }
+
+  .textpadding {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+  }
+
+  u {
+    text-decoration: blue;
+    color: blue;
+  }
